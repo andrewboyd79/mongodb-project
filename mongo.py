@@ -28,5 +28,3 @@ documents = coll.find()
 
 for doc in documents:
     print(doc)
-
-
